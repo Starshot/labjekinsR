@@ -1,0 +1,568 @@
+Priscilla Siquieros - psiquier
+Kellie Watson - kelliewatson
+Nick Rynearson - starshot
+
+
+
+ Volume in drive C has no label.
+ Volume Serial Number is E894-15AD
+
+ Directory of C:\labcibuild
+
+02/05/2014  07:01 PM    <DIR>          .
+02/05/2014  07:01 PM    <DIR>          ..
+02/05/2014  05:16 PM               289 .classpath
+02/05/2014  05:16 PM                56 .gitignore
+02/05/2014  05:16 PM               386 .project
+02/05/2014  05:17 PM    <DIR>          bin
+02/05/2014  06:18 PM    <DIR>          build
+02/05/2014  06:51 PM                37 build.properties
+02/05/2014  06:52 PM             1,093 build.xml
+02/05/2014  02:45 PM               910 build.xml~
+02/05/2014  04:59 PM            14,074 CST316Lab1Lab2.jar
+02/05/2014  02:34 PM                69 my.properties
+02/05/2014  02:34 PM                61 README.md
+02/05/2014  07:00 PM            21,874 sbarnai.lab2.txt
+02/05/2014  07:01 PM                 0 sbarnai.task2.txt
+02/05/2014  02:34 PM    <DIR>          src
+              11 File(s)         38,849 bytes
+
+ Directory of C:\labcibuild\.git
+
+02/05/2014  02:34 PM               330 config
+02/05/2014  02:34 PM                73 description
+02/05/2014  02:34 PM                23 HEAD
+02/05/2014  02:34 PM    <DIR>          hooks
+02/05/2014  04:08 PM             1,408 index
+02/05/2014  02:34 PM    <DIR>          info
+02/05/2014  02:34 PM    <DIR>          logs
+02/05/2014  02:34 PM    <DIR>          objects
+02/05/2014  02:34 PM               107 packed-refs
+02/05/2014  02:34 PM    <DIR>          refs
+               5 File(s)          1,941 bytes
+
+ Directory of C:\labcibuild\.git\hooks
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               452 applypatch-msg.sample
+02/05/2014  02:34 PM               896 commit-msg.sample
+02/05/2014  02:34 PM               160 post-commit.sample
+02/05/2014  02:34 PM               552 post-receive.sample
+02/05/2014  02:34 PM               189 post-update.sample
+02/05/2014  02:34 PM               398 pre-applypatch.sample
+02/05/2014  02:34 PM             1,635 pre-commit.sample
+02/05/2014  02:34 PM             1,348 pre-push.sample
+02/05/2014  02:34 PM             4,951 pre-rebase.sample
+02/05/2014  02:34 PM             1,239 prepare-commit-msg.sample
+02/05/2014  02:34 PM             3,611 update.sample
+              11 File(s)         15,431 bytes
+
+ Directory of C:\labcibuild\.git\info
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\labcibuild\.git\logs
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               184 HEAD
+02/05/2014  02:34 PM    <DIR>          refs
+               1 File(s)            184 bytes
+
+ Directory of C:\labcibuild\.git\logs\refs
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          heads
+02/05/2014  02:34 PM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\logs\refs\heads
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               184 master
+               1 File(s)            184 bytes
+
+ Directory of C:\labcibuild\.git\logs\refs\remotes
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\logs\refs\remotes\origin
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               184 HEAD
+               1 File(s)            184 bytes
+
+ Directory of C:\labcibuild\.git\objects
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          0f
+02/05/2014  02:34 PM    <DIR>          1f
+02/05/2014  02:34 PM    <DIR>          30
+02/05/2014  02:34 PM    <DIR>          37
+02/05/2014  02:34 PM    <DIR>          42
+02/05/2014  02:34 PM    <DIR>          47
+02/05/2014  02:34 PM    <DIR>          50
+02/05/2014  02:34 PM    <DIR>          55
+02/05/2014  02:34 PM    <DIR>          5a
+02/05/2014  02:34 PM    <DIR>          76
+02/05/2014  02:34 PM    <DIR>          77
+02/05/2014  02:34 PM    <DIR>          91
+02/05/2014  02:34 PM    <DIR>          a0
+02/05/2014  02:34 PM    <DIR>          a1
+02/05/2014  02:34 PM    <DIR>          a6
+02/05/2014  02:34 PM    <DIR>          ab
+02/05/2014  02:34 PM    <DIR>          ae
+02/05/2014  02:34 PM    <DIR>          b8
+02/05/2014  02:34 PM    <DIR>          bd
+02/05/2014  02:34 PM    <DIR>          cf
+02/05/2014  02:34 PM    <DIR>          d0
+02/05/2014  02:34 PM    <DIR>          dc
+02/05/2014  02:34 PM    <DIR>          e1
+02/05/2014  02:34 PM    <DIR>          info
+02/05/2014  02:34 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\objects\0f
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                55 182a0349c4925c57f4ffbd5802b536a3e2588b
+               1 File(s)             55 bytes
+
+ Directory of C:\labcibuild\.git\objects\1f
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               204 cce4d6b4da24b970c49037b86b693240791178
+               1 File(s)            204 bytes
+
+ Directory of C:\labcibuild\.git\objects\30
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                47 f0ad2696de3c1bc7bfde479e79c42b71c06be1
+               1 File(s)             47 bytes
+
+ Directory of C:\labcibuild\.git\objects\37
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                79 6d13af86ece7b1bd4b786f5f3866da44926353
+               1 File(s)             79 bytes
+
+ Directory of C:\labcibuild\.git\objects\42
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                49 048ac9e5a4337728a52791b9e91e24790eaa1b
+               1 File(s)             49 bytes
+
+ Directory of C:\labcibuild\.git\objects\47
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               694 dddbcc6fed53b43f7404c636104c230231ca59
+               1 File(s)            694 bytes
+
+ Directory of C:\labcibuild\.git\objects\50
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               633 0da2a5567fc68d3760204fed5c5960efb255b4
+               1 File(s)            633 bytes
+
+ Directory of C:\labcibuild\.git\objects\55
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               728 592296e7ef4616c9431011c627a1ed998d2367
+               1 File(s)            728 bytes
+
+ Directory of C:\labcibuild\.git\objects\5a
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               442 6bb3df783e619508598fa704b97d38dcea0808
+               1 File(s)            442 bytes
+
+ Directory of C:\labcibuild\.git\objects\76
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                59 f59bac39fdd12e34fd86311ec37973aa10436d
+               1 File(s)             59 bytes
+
+ Directory of C:\labcibuild\.git\objects\77
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM             1,738 9753a4f4a8093b060f46ee8c197fbaaae77f18
+               1 File(s)          1,738 bytes
+
+ Directory of C:\labcibuild\.git\objects\91
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               176 f1e4a9e627d2f9943623888fcadd7ebff473d7
+               1 File(s)            176 bytes
+
+ Directory of C:\labcibuild\.git\objects\a0
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                88 e5bc02c6d0a61dac6c3e63977242a6b0979055
+               1 File(s)             88 bytes
+
+ Directory of C:\labcibuild\.git\objects\a1
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               188 2f68989747c76ca50e376440b89177432d45a1
+02/05/2014  02:34 PM               378 3c6babf8eb49983b8162bde09a3c4441b304e0
+               2 File(s)            566 bytes
+
+ Directory of C:\labcibuild\.git\objects\a6
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                84 ba8b277fb7c60879bcc785ad0f7be0496ce1f2
+               1 File(s)             84 bytes
+
+ Directory of C:\labcibuild\.git\objects\ab
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               458 144904a6fc3a22e40e30d72c907131aa5ff56a
+02/05/2014  02:34 PM             1,137 16259459711aa7d3fc33aa0649e580775b60ef
+               2 File(s)          1,595 bytes
+
+ Directory of C:\labcibuild\.git\objects\ae
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               276 815494792f77b39a9aeeb389f43e8806ae9b9a
+               1 File(s)            276 bytes
+
+ Directory of C:\labcibuild\.git\objects\b8
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               128 bc8ec5c1a1ac3e93c24241dd4b5dea01272f99
+               1 File(s)            128 bytes
+
+ Directory of C:\labcibuild\.git\objects\bd
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM             1,113 e87d39452871244c6a0de4769ad9938e6184a4
+               1 File(s)          1,113 bytes
+
+ Directory of C:\labcibuild\.git\objects\cf
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               188 670a29387744a3bb30b26ba3b76f9e8ac391e5
+02/05/2014  02:34 PM               165 e0baf6b96618cd43c0399805b9ab534e9bfd39
+               2 File(s)            353 bytes
+
+ Directory of C:\labcibuild\.git\objects\d0
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               606 a9aded49a6cffb44e115d95aa5efc817d84b70
+               1 File(s)            606 bytes
+
+ Directory of C:\labcibuild\.git\objects\dc
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                57 1b501f03a4771bdd1d6e3b45fae16cb45a2ed6
+               1 File(s)             57 bytes
+
+ Directory of C:\labcibuild\.git\objects\e1
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM             1,173 b52bcfe7b4c4640c0b84b9aafcf3460c6898a1
+               1 File(s)          1,173 bytes
+
+ Directory of C:\labcibuild\.git\objects\info
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\objects\pack
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\refs
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          heads
+02/05/2014  02:34 PM    <DIR>          remotes
+02/05/2014  02:34 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\refs\heads
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\labcibuild\.git\refs\remotes
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\.git\refs\remotes\origin
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM                32 HEAD
+               1 File(s)             32 bytes
+
+ Directory of C:\labcibuild\.git\refs\tags
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\bin
+
+02/05/2014  05:17 PM    <DIR>          .
+02/05/2014  05:17 PM    <DIR>          ..
+02/05/2014  05:17 PM    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\bin\banking
+
+02/05/2014  05:17 PM    <DIR>          .
+02/05/2014  05:17 PM    <DIR>          ..
+02/05/2014  05:17 PM    <DIR>          gui
+02/05/2014  05:17 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\bin\banking\gui
+
+02/05/2014  05:17 PM    <DIR>          .
+02/05/2014  05:17 PM    <DIR>          ..
+02/05/2014  05:17 PM               891 Main.class
+02/05/2014  05:17 PM             1,535 MainFrame$DepositHandler.class
+02/05/2014  05:17 PM             2,168 MainFrame$DisplayHandler.class
+02/05/2014  05:17 PM               593 MainFrame$FrameHandler.class
+02/05/2014  05:17 PM             1,599 MainFrame$NewAccountHandler.class
+02/05/2014  05:17 PM             1,099 MainFrame$SaveAccountsHandler.class
+02/05/2014  05:17 PM             1,545 MainFrame$WithdrawHandler.class
+02/05/2014  05:17 PM             3,955 MainFrame.class
+               8 File(s)         13,385 bytes
+
+ Directory of C:\labcibuild\bin\banking\primitive
+
+02/05/2014  05:17 PM    <DIR>          .
+02/05/2014  05:17 PM    <DIR>          ..
+02/05/2014  05:17 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\bin\banking\primitive\core
+
+02/05/2014  05:17 PM    <DIR>          .
+02/05/2014  05:17 PM    <DIR>          ..
+02/05/2014  05:17 PM             1,182 Account$State.class
+02/05/2014  05:17 PM             1,708 Account.class
+02/05/2014  05:17 PM               601 AccountServer.class
+02/05/2014  05:17 PM               753 AccountServerFactory.class
+02/05/2014  05:17 PM             1,926 Checking.class
+02/05/2014  05:17 PM             1,812 Savings.class
+02/05/2014  05:17 PM             5,440 ServerSolution.class
+               7 File(s)         13,422 bytes
+
+ Directory of C:\labcibuild\build
+
+02/05/2014  06:18 PM    <DIR>          .
+02/05/2014  06:18 PM    <DIR>          ..
+02/05/2014  03:40 PM    <DIR>          classes
+02/05/2014  03:40 PM    <DIR>          doc
+02/05/2014  03:40 PM                69 my.properties
+               1 File(s)             69 bytes
+
+ Directory of C:\labcibuild\build\classes
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\build\classes\banking
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM    <DIR>          gui
+02/05/2014  03:40 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\build\classes\banking\gui
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM               587 Main.class
+02/05/2014  03:40 PM             1,171 MainFrame$DepositHandler.class
+02/05/2014  03:40 PM             1,458 MainFrame$DisplayHandler.class
+02/05/2014  03:40 PM               361 MainFrame$FrameHandler.class
+02/05/2014  03:40 PM             1,263 MainFrame$NewAccountHandler.class
+02/05/2014  03:40 PM               811 MainFrame$SaveAccountsHandler.class
+02/05/2014  03:40 PM             1,180 MainFrame$WithdrawHandler.class
+02/05/2014  03:40 PM             3,155 MainFrame.class
+               8 File(s)          9,986 bytes
+
+ Directory of C:\labcibuild\build\classes\banking\primitive
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\build\classes\banking\primitive\core
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM               962 Account$State.class
+02/05/2014  03:40 PM             1,296 Account.class
+02/05/2014  03:40 PM               559 AccountServer.class
+02/05/2014  03:40 PM               546 AccountServerFactory.class
+02/05/2014  03:40 PM             1,452 Checking.class
+02/05/2014  03:40 PM             1,378 Savings.class
+02/05/2014  03:40 PM             4,110 ServerSolution.class
+               7 File(s)         10,303 bytes
+
+ Directory of C:\labcibuild\build\doc
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  04:59 PM             1,187 allclasses-frame.html
+02/05/2014  04:59 PM             1,087 allclasses-noframe.html
+02/05/2014  03:40 PM    <DIR>          banking
+02/05/2014  04:59 PM             3,437 constant-values.html
+02/05/2014  04:59 PM             3,387 deprecated-list.html
+02/05/2014  04:59 PM             8,177 help-doc.html
+02/05/2014  04:59 PM            14,197 index-all.html
+02/05/2014  04:59 PM             2,746 index.html
+02/05/2014  04:59 PM               834 overview-frame.html
+02/05/2014  04:59 PM             3,961 overview-summary.html
+02/05/2014  04:59 PM             4,762 overview-tree.html
+02/05/2014  04:59 PM                37 package-list
+02/05/2014  03:40 PM    <DIR>          resources
+02/05/2014  04:59 PM             5,718 serialized-form.html
+02/05/2014  03:40 PM            11,613 stylesheet.css
+              13 File(s)         61,143 bytes
+
+ Directory of C:\labcibuild\build\doc\banking
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM    <DIR>          gui
+02/05/2014  03:40 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\build\doc\banking\gui
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  04:59 PM               524 package-frame.html
+02/05/2014  04:59 PM             3,676 package-summary.html
+02/05/2014  04:59 PM             3,801 package-tree.html
+               3 File(s)          8,001 bytes
+
+ Directory of C:\labcibuild\build\doc\banking\primitive
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\build\doc\banking\primitive\core
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  04:59 PM            10,720 Account.html
+02/05/2014  04:59 PM            11,682 AccountServer.html
+02/05/2014  04:59 PM             8,019 AccountServerFactory.html
+02/05/2014  04:59 PM            13,393 Checking.html
+02/05/2014  04:59 PM             1,312 package-frame.html
+02/05/2014  04:59 PM             5,651 package-summary.html
+02/05/2014  04:59 PM             5,115 package-tree.html
+02/05/2014  04:59 PM            12,807 Savings.html
+               8 File(s)         68,699 bytes
+
+ Directory of C:\labcibuild\build\doc\resources
+
+02/05/2014  03:40 PM    <DIR>          .
+02/05/2014  03:40 PM    <DIR>          ..
+02/05/2014  03:40 PM             2,313 background.gif
+02/05/2014  03:40 PM               291 tab.gif
+02/05/2014  03:40 PM            10,701 titlebar.gif
+02/05/2014  03:40 PM               849 titlebar_end.gif
+               4 File(s)         14,154 bytes
+
+ Directory of C:\labcibuild\src
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\src\banking
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM    <DIR>          gui
+02/05/2014  02:34 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\src\banking\gui
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  02:34 PM               721 Main.java
+02/05/2014  02:34 PM             5,891 MainFrame.java
+               2 File(s)          6,612 bytes
+
+ Directory of C:\labcibuild\src\banking\primitive
+
+02/05/2014  02:34 PM    <DIR>          .
+02/05/2014  02:34 PM    <DIR>          ..
+02/05/2014  03:04 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild\src\banking\primitive\core
+
+02/05/2014  03:04 PM    <DIR>          .
+02/05/2014  03:04 PM    <DIR>          ..
+02/05/2014  02:34 PM             1,935 Account.java
+02/05/2014  02:34 PM             1,483 AccountServer.java
+02/05/2014  02:34 PM               407 AccountServerFactory.java
+02/05/2014  02:34 PM             1,523 Checking.java
+02/05/2014  02:34 PM             1,264 Savings.java
+02/05/2014  02:34 PM             3,164 ServerSolution.java
+               6 File(s)          9,776 bytes
+
+     Total Files Listed:
+             126 File(s)        283,579 bytes
+             182 Dir(s)  39,054,802,944 bytes free
