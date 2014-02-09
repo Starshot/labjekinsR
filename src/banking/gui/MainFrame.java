@@ -27,6 +27,8 @@ class MainFrame extends JFrame {
 	JButton			displayAccountsButton;
 	JButton			displayODAccountsButton;
 
+	// constructor for MainFrame class
+
 	public MainFrame(String propertyFile) throws IOException {
 
 		//** initialize myServer
